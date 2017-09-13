@@ -6,7 +6,6 @@ if (dog === "hungry") {
     console.log("Refilling water bowl.")
 } else if (dog === "playful") {
     console.log("Playing tug of war")
-}
-else {
+} else {
     console.log("Reading newspaper.")
 }
