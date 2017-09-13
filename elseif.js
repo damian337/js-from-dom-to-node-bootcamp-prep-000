@@ -2,6 +2,9 @@ var dog = "hungry"
 
 if (dog === "hungry") {
     console.log("Refilling food bowl.")
-} else {
-    console.log("Reading newspaper")
+} else if (dog === "thirsty") {
+    console.log("Refilling water bowl.")
+}
+else {
+    console.log("Reading newspaper.")
 }
